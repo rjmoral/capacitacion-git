@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hola de nuevo
+=======
+jeka bonita
+jgomez
+hola mundo
+Alejo
+>>>>>>> edbaa54355f11b20ec5ab4c6047785cd36fb5b8f
